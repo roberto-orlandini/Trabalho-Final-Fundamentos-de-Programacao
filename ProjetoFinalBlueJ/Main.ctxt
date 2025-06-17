@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=M
+comment1.target=void\ MostraMatriz(char[][])
+comment2.params=M\ origem\ destino\ simbolo
+comment2.target=char[][]\ DesenhaCaminho(char[][],\ Ponto,\ Ponto,\ char)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
